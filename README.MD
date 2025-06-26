@@ -4,6 +4,12 @@ A fun and interactive **memory game** built using **HTML**, **CSS**, and **JavaS
 
 ---
 
+📸 Screenshot
+Here how it look's
+screehshot.png
+
+---
+
 ## 📌 Features
 
 - Classic Simon Game logic (remember the sequence and repeat it)
