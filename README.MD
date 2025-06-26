@@ -4,9 +4,11 @@ A fun and interactive **memory game** built using **HTML**, **CSS**, and **JavaS
 
 ---
 
-📸 Screenshot
-Here how it look's
-screehshot.png
+## 📸 Screenshot
+
+Here’s how it looks:
+
+![SIMON PLAYS Screenshot](screenshot.png)
 
 ---
 
